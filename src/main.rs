@@ -17,15 +17,16 @@ pub mod ui;
 
 #[tokio::main]
 async fn main() -> AppResult<()> {
-    // Create an application.
-    let mut app = App::new();
-
     // Initialize the terminal user interface.
     let backend = CrosstermBackend::new(io::stdout());
     let terminal = Terminal::new(backend)?;
     let events = EventHandler::new(250);
+    let init_size = terminal.size()?;
     let mut tui = Tui::new(terminal, events);
     tui.init()?;
+
+    // Create an application.
+    let mut app = App::new(init_size.width, init_size.height);
 
     // Start the main loop.
     while app.running {
