@@ -1,8 +1,9 @@
+use color_art::Color;
 use grid::*;
 use rand::prelude::*;
 use ratatui::{
     layout::Rect,
-    style::Color,
+    style::Color as OtherColor,
     symbols::Marker,
     widgets::{
         canvas::{Canvas, Points},
@@ -20,41 +21,62 @@ pub struct App {
     /// Is the application running?
     pub running: bool,
     /// life grid
-    pub grid: Grid<Option<Color>>,
+    pub grid: Grid<Option<Cell>>,
     pub width: u16,
     pub height: u16,
     pub marker: Marker,
 }
 
-fn generate_option_color(density: u8) -> Option<Color> {
-    let mut rng = rand::rng();
-    if rng.random_range(0..100) < density {
-        Some(generate_random_color())
-    } else {
-        None
+#[derive(Debug, Default, Clone)]
+pub struct Cell {
+    age: usize,
+    color: Option<Color>,
+}
+
+impl Cell {
+    fn get_color(&self) -> Option<OtherColor> {
+        if let Some(color) = self.color {
+            Some(OtherColor::Rgb(color.red(), color.green(), color.blue()))
+        } else {
+            None
+        }
     }
 }
 
-fn generate_random_color() -> Color {
-    // Generate a random RGB color
-    let mut rng = rand::rng();
-    let r = rng.random_range(0..256) as u8;
-    let g = rng.random_range(0..256) as u8;
-    let b = rng.random_range(0..256) as u8;
-    Color::Rgb(r, g, b)
-}
-
 /// Function to generate a grid of Option<Color> with given width, height, and density
-fn generate_color_grid(width: usize, height: usize, density: u8) -> Grid<Option<Color>> {
+fn generate_color_grid(width: usize, height: usize, density: u8) -> Grid<Option<Cell>> {
     let mut grid = Grid::new(height, width);
 
     for row in 0..height {
         for col in 0..width {
-            grid[(row, col)] = generate_option_color(density);
+            grid[(row, col)] = generate_random_option_cell(density);
         }
     }
 
     grid
+}
+
+fn generate_random_option_cell(density: u8) -> Option<Cell> {
+    let mut rng = rand::rng();
+
+    if rng.random_range(1..=100) <= density {
+        let r: f64 = rng.random_range(0.0..=360.0);
+        return Some(Cell {
+            color: Color::from_hsv(r, 1.0, 1.0).ok(),
+            age: 0,
+        });
+    }
+
+    None
+}
+fn generate_random_cell() -> Cell {
+    let mut rng = rand::rng();
+
+    let r: f64 = rng.random_range(0.0..=360.0);
+    return Cell {
+        color: Color::from_hsv(r, 1.0, 1.0).ok(),
+        age: 0,
+    };
 }
 
 impl App {
@@ -62,8 +84,8 @@ impl App {
     pub fn new(width: u16, height: u16) -> Self {
         Self {
             running: true,
-            grid: generate_color_grid((width * 2).into(), (height * 4).into(), 50),
-            marker: Marker::Braille,
+            grid: generate_color_grid(width.into(), height.into(), 50),
+            marker: Marker::Block,
             width,
             height,
         }
@@ -88,11 +110,14 @@ impl App {
             .x_bounds([left, right])
             .y_bounds([bottom, top])
             .paint(|ctx| {
-                self.grid.indexed_iter().for_each(|((row, col), color)| {
-                    if let Some(color) = color {
+                self.grid.indexed_iter().for_each(|((row, col), cell)| {
+                    if let Some(cell) = cell {
                         ctx.draw(&Points {
                             coords: &[(col as f64, row as f64)],
-                            color: *color,
+                            color: match cell.get_color() {
+                                Some(color) => color,
+                                None => OtherColor::Black,
+                            },
                         })
                     }
                 })
@@ -110,8 +135,8 @@ impl App {
 
                 let next_state = match (current_state, live_neighbors) {
                     (Some(_), n) if !(2..=3).contains(&n) => None,
-                    (Some(color), n) if n == 2 || n == 3 => Some(*color),
-                    (None, 3) => Some(generate_random_color()),
+                    (Some(color), n) if n == 2 || n == 3 => Some(color.clone()),
+                    (None, 3) => Some(generate_random_cell()),
                     _ => None,
                 };
 
@@ -119,11 +144,12 @@ impl App {
             }
         }
     }
+
     pub fn reset(&mut self) {
-        self.grid = generate_color_grid((self.width * 2).into(), (self.height * 4).into(), 50);
+        self.grid = generate_color_grid(self.width.into(), self.height.into(), 50);
     }
 
-    fn count_live_neighbors(grid: &Grid<Option<Color>>, row: usize, col: usize) -> usize {
+    fn count_live_neighbors(grid: &Grid<Option<Cell>>, row: usize, col: usize) -> usize {
         let directions = [
             (-1, -1),
             (-1, 0),
