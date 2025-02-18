@@ -62,8 +62,8 @@ impl App {
     pub fn new(width: u16, height: u16) -> Self {
         Self {
             running: true,
-            grid: generate_color_grid(width.into(), height.into(), 50),
-            marker: Marker::Block,
+            grid: generate_color_grid((width * 2).into(), (height * 4).into(), 50),
+            marker: Marker::Braille,
             width,
             height,
         }
@@ -120,7 +120,7 @@ impl App {
         }
     }
     pub fn reset(&mut self) {
-        self.grid = generate_color_grid(self.width.into(), self.height.into(), 50);
+        self.grid = generate_color_grid((self.width * 2).into(), (self.height * 4).into(), 50);
     }
 
     fn count_live_neighbors(grid: &Grid<Option<Color>>, row: usize, col: usize) -> usize {
