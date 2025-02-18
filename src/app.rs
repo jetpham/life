@@ -1,11 +1,12 @@
 use grid::*;
+use rand::prelude::*;
 use ratatui::{
     layout::Rect,
     style::Color,
     symbols::Marker,
     widgets::{
         canvas::{Canvas, Points},
-        Block, Widget,
+        Widget,
     },
 };
 use std::error;
@@ -18,11 +19,42 @@ pub type AppResult<T> = std::result::Result<T, Box<dyn error::Error>>;
 pub struct App {
     /// Is the application running?
     pub running: bool,
-    /// counter
-    pub counter: u8,
     /// life grid
     pub grid: Grid<Option<Color>>,
+    pub width: u16,
+    pub height: u16,
     pub marker: Marker,
+}
+
+fn generate_option_color(density: u8) -> Option<Color> {
+    let mut rng = rand::rng();
+    if rng.random_range(0..100) < density {
+        Some(generate_random_color())
+    } else {
+        None
+    }
+}
+
+fn generate_random_color() -> Color {
+    // Generate a random RGB color
+    let mut rng = rand::rng();
+    let r = rng.random_range(0..256) as u8;
+    let g = rng.random_range(0..256) as u8;
+    let b = rng.random_range(0..256) as u8;
+    Color::Rgb(r, g, b)
+}
+
+/// Function to generate a grid of Option<Color> with given width, height, and density
+fn generate_color_grid(width: usize, height: usize, density: u8) -> Grid<Option<Color>> {
+    let mut grid = Grid::new(height, width);
+
+    for row in 0..height {
+        for col in 0..width {
+            grid[(row, col)] = generate_option_color(density);
+        }
+    }
+
+    grid
 }
 
 impl App {
@@ -30,32 +62,22 @@ impl App {
     pub fn new(width: u16, height: u16) -> Self {
         Self {
             running: true,
-            counter: 0,
-            grid: Grid::init(height.into(), width.into(), None),
+            grid: generate_color_grid(width.into(), height.into(), 50),
             marker: Marker::Block,
+            width,
+            height,
         }
     }
 
     /// Handles the tick event of the terminal.
-    pub fn tick(&self) {}
+    pub fn tick(&mut self) {
+        self.step()
+    }
 
     /// Set running to false to quit the application.
     pub fn quit(&mut self) {
         self.running = false;
     }
-
-    pub fn increment_counter(&mut self) {
-        if let Some(res) = self.counter.checked_add(1) {
-            self.counter = res;
-        }
-    }
-
-    pub fn decrement_counter(&mut self) {
-        if let Some(res) = self.counter.checked_sub(1) {
-            self.counter = res;
-        }
-    }
-
     pub fn life_canvas(&self, area: Rect) -> impl Widget + '_ {
         let left = 0.0;
         let right = f64::from(area.width);
@@ -89,13 +111,16 @@ impl App {
                 let next_state = match (current_state, live_neighbors) {
                     (Some(_), n) if !(2..=3).contains(&n) => None,
                     (Some(color), n) if n == 2 || n == 3 => Some(*color),
-                    (None, 3) => Some(Color::Black),
+                    (None, 3) => Some(generate_random_color()),
                     _ => None,
                 };
 
                 *self.grid.get_mut(row, col).unwrap() = next_state;
             }
         }
+    }
+    pub fn reset(&mut self) {
+        self.grid = generate_color_grid(self.width.into(), self.height.into(), 50);
     }
 
     fn count_live_neighbors(grid: &Grid<Option<Color>>, row: usize, col: usize) -> usize {
