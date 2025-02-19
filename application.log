@@ -1,0 +1,1361 @@
+2025-02-20T10:30:40.125940780-08:00 - INFO - Application starting...
+2025-02-20T10:30:58.639383664-08:00 - INFO - Application starting...
+2025-02-20T10:31:18.969459293-08:00 - INFO - Application starting...
+2025-02-20T10:31:25.900883135-08:00 - INFO - Application starting...
+2025-02-20T10:33:08.895428604-08:00 - INFO - Application starting...
+2025-02-20T10:33:23.923413479-08:00 - INFO - Application starting...
+2025-02-20T10:33:26.781669258-08:00 - INFO - Key Pressed: KeyEvent { code: Char('j'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:27.581579943-08:00 - INFO - Key Pressed: KeyEvent { code: Char('j'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:28.202586055-08:00 - INFO - Key Pressed: KeyEvent { code: Char('j'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:28.394646160-08:00 - INFO - Key Pressed: KeyEvent { code: Char('k'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:28.714331848-08:00 - INFO - Key Pressed: KeyEvent { code: Char('k'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:28.936503753-08:00 - INFO - Key Pressed: KeyEvent { code: Char('k'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:29.170376676-08:00 - INFO - Key Pressed: KeyEvent { code: Char('l'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:29.921837737-08:00 - INFO - Key Pressed: KeyEvent { code: Char('l'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:29.950980176-08:00 - INFO - Key Pressed: KeyEvent { code: Char('k'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:30.188327012-08:00 - INFO - Key Pressed: KeyEvent { code: Char('h'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:30.410500703-08:00 - INFO - Key Pressed: KeyEvent { code: Char('k'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:30.504551698-08:00 - INFO - Key Pressed: KeyEvent { code: Char('j'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:30.604863664-08:00 - INFO - Key Pressed: KeyEvent { code: Char('h'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:30.804919537-08:00 - INFO - Key Pressed: KeyEvent { code: Char('l'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:30.834723784-08:00 - INFO - Key Pressed: KeyEvent { code: Char('k'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:30.921946316-08:00 - INFO - Key Pressed: KeyEvent { code: Char('h'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:31.202211321-08:00 - INFO - Key Pressed: KeyEvent { code: Char('l'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:31.207198280-08:00 - INFO - Key Pressed: KeyEvent { code: Char('k'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:31.279553795-08:00 - INFO - Key Pressed: KeyEvent { code: Char('j'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:31.442716590-08:00 - INFO - Key Pressed: KeyEvent { code: Char('h'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:31.630988388-08:00 - INFO - Key Pressed: KeyEvent { code: Char('l'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:31.665728418-08:00 - INFO - Key Pressed: KeyEvent { code: Char('k'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:31.760095128-08:00 - INFO - Key Pressed: KeyEvent { code: Char('h'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:32.021567540-08:00 - INFO - Key Pressed: KeyEvent { code: Char('k'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:32.046405062-08:00 - INFO - Key Pressed: KeyEvent { code: Char('l'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:32.056796777-08:00 - INFO - Key Pressed: KeyEvent { code: Char('j'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:33:32.221519570-08:00 - INFO - Key Pressed: KeyEvent { code: Char('h'), modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:35:19.439773964-08:00 - INFO - Application starting...
+2025-02-20T10:35:20.442316283-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 26, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:20.532713797-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 26, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:23.228351818-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:23.309109421-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:23.724117871-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:24.422868774-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:26.506084606-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:26.574370822-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:26.982050769-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:27.094261647-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:27.663555781-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Right), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:27.789064145-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Right), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:28.337801893-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Right), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:28.460503535-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Right), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:29.890209180-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Middle), column: 29, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:29.895671513-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Middle), column: 29, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:30.827573501-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 29, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.080426638-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.111347198-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.124504770-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.152214536-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.217829114-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.257678891-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.290637291-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.301776092-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.332120673-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.393074303-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.835720580-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 40, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.847455507-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 40, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.863792946-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.874316869-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.893849263-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.903925082-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.934104269-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.964726869-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:31.978380629-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.022837927-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.085111369-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.110110855-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.119115899-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.149413702-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.156532088-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 40, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.173874971-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.180702110-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.186863586-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.207439860-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.213504191-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.222977068-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.237725304-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.244873852-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.253799709-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.261433181-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.277255884-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.283656236-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.289893588-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.316577290-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.352594249-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.386459176-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.421140538-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.427730380-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.435303833-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.448825052-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.465291571-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.475236907-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.497632798-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.557207109-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.591315995-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.599416593-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.609483086-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.626801526-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.632443146-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.637287961-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.642485718-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.657637610-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.662756711-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.668227034-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.676720478-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 15, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.694475803-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 14, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.703091650-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 14, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.713593380-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 13, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.739906609-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 12, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.750483619-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 12, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.777074678-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 12, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.784634170-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 12, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.795197994-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 13, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.809637123-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 13, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.815530561-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 14, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.824866782-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 15, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.899505795-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.906324674-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.913398457-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.920308720-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.927200442-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.934313394-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.940804708-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.945779531-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.951834122-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.958748231-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.965641866-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.972471257-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.979411120-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.985529352-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.990426758-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:32.997878316-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 40, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.007640311-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.013088608-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.017587905-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.024563385-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 45, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.029517092-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 46, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.035717408-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 46, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.042696519-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 47, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.049671932-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 47, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.056561637-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 48, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.063890093-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 48, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.074678582-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 48, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.078364431-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 47, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.081720870-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 46, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.085260558-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 45, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.087850227-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.090505004-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.095487317-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.102276278-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.110150006-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.117254979-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.127523786-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.131674754-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.139314041-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.146412846-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.156514327-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.161652962-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.169544897-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.180285361-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.203852187-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.212409838-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.232491907-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.249545926-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.255893798-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.261770645-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.268441516-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.276014102-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.281844292-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.292347667-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.299151817-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.304924796-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.310391001-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.321897435-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.328412978-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.333924203-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.338859976-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 45, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.349293425-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 46, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.358531989-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 47, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.365235273-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 48, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.370834842-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 48, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.380551608-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 49, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.394184740-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 49, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.403389069-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 48, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.418181372-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 46, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.431993101-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.438249190-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.443297422-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.453898091-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.459240141-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.471663699-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.478299500-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.484427790-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.490121921-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.496251873-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.509583392-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.516174394-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.522102214-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.539163607-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.550159972-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:33.574428264-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 25, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.421833438-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 25, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.462470293-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.469708999-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.479699123-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.496281594-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.502250721-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.508005390-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.512551283-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.518394768-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.532640474-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.538148105-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.543782705-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.561351133-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.581266694-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 40, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.598405342-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.609349175-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.614847067-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.621012414-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.629172896-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.642511313-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.652951559-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.658967917-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.663572015-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.668685136-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.681935575-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.690019371-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.695356198-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.699865483-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.705254820-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.710212859-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.729045252-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.737598225-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.747705283-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.761227165-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.770457876-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.793591211-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.799409415-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.804310207-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.814342922-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.831114421-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.836147371-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.841249408-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.850791352-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.880648677-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.923470264-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.933980966-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.948786439-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.954884577-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.960978892-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.965537626-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.970552037-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.977798849-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:35.995657570-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 14, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.001449262-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 14, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.006780818-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 13, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.011819466-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 13, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.017838163-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 12, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.041561022-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 12, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.052484582-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 13, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.056927232-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 13, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.062501093-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 14, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.072842586-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 15, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.078940818-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.084476388-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.090117214-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.103929141-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.109961688-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.114673164-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.119303031-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.125654310-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.141190724-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.147592742-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.161394417-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.168271477-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.178225189-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.184159306-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.192203227-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.209710303-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.217667346-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.223857533-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.229794894-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.247863089-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.252775854-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.259316186-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.276770233-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.282864686-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.287748948-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.293516043-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.305556125-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.311705357-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.317356453-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.322542518-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.328662521-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.348980560-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.355268078-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.360235335-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.364988373-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.371312447-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.375916984-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.382586914-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.401335032-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.407152382-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.413403985-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.422452583-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.449307371-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.455267993-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.460901090-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.466328243-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.471284154-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.476930922-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.490684991-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.496184154-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.504464468-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.524699617-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.531022842-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.537915347-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.544767673-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.551596390-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.567955485-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.574991895-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.583166208-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.593070280-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.600682523-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.605451465-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.612255523-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.619557475-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.629659073-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.642838830-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.652957391-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.657574936-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.662585356-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.669599587-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.676740011-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.681461994-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.689299070-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.705254851-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 15, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.710353250-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 15, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.716697583-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 14, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.738819304-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 15, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.748516902-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.753120191-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.763152007-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.776934130-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.781824169-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.786517520-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.791385199-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.797818360-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.808031351-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.821328608-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.827658289-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.832945836-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.838417938-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.857010034-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.864648559-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.874654238-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.897170142-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.917718942-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.923761477-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.928352797-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.933969427-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.941646987-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.954499035-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.959652231-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.964445979-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.968700960-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.978377276-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.992264291-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:36.997920499-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.002197278-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.008548692-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.020967701-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.030416522-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.083010552-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.098300694-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.109130101-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.120221553-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.137385979-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.147906596-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.156381395-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.172804460-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.178183252-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.183234222-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.193503787-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.207527-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.212513564-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.217497132-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.223592096-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.240891703-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.246334704-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.255645027-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.259870852-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.264792531-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.274920383-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.281290365-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 40, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.285594242-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.290155825-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.303510699-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.308450794-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.313188228-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.319672182-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.335109243-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.349423443-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.353958820-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.358218873-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.363638407-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.371478310-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.385738610-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.390774351-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.394925242-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.400468430-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.409650301-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.420275301-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.425254575-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.429789303-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.438835145-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.461553922-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.469724264-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.480147263-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.490420274-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.503297761-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.508916237-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.513801123-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.517999664-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.527258975-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.542077412-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.547358389-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.558642261-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.563229768-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.570839477-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.575584004-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.580596994-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.584654731-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.594239619-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.617882591-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 45, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.647864842-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 46, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.680705990-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 45, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.690685100-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.703748515-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.708836674-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 40, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.714282443-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.720853600-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.734067760-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.739993761-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.749269558-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.757891380-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.770735288-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.775823931-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.781235715-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.787378230-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.800387513-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.809369765-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.824594281-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.847889629-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.854073111-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.874516692-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:37.878883812-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 26, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.431881585-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 15, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.495192500-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.505592572-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.518240677-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.522872102-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.527295074-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.532565162-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.542560815-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.558099604-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.563273943-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.567657399-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.572172828-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.579097667-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.596334314-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.601020373-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.605505046-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.609636545-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.614702406-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.623572513-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.636220726-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.643041975-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.651851063-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.660663659-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.681867071-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 40, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.708981599-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:38.742700626-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 41, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.151276759-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 32, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.180920493-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.186317448-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.192249906-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.199880807-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.210005190-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.226000487-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.232732783-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.238387443-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.243827172-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.254524293-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.266728331-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.276816368-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:39.343156773-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 36, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:58.548249893-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 7, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:58.558451458-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 7, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:58.577282426-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 8, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:58.587167117-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 8, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:58.602250893-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:58.624534896-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:58.647149849-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:58.651416608-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 10, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:58.661802627-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 10, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.007633324-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 10, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.354303360-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 10, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.440170462-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.473788357-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.484059059-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.499397997-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.518101684-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.528653874-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.548358543-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.555122064-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.581225361-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.590429638-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.610119170-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.648921357-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.690182449-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.719149638-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.748659763-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 10, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.757679339-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 10, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.795153340-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 10, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.825501619-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 10, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.857975829-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.870036388-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.921984738-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:35:59.974165409-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.011727288-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.208825834-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 8, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.219181279-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 8, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.237898404-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 7, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.249529684-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 6, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.255313365-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 5, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.270526440-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 4, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.282233532-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 3, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.293335375-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 2, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.319366428-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 1, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.327334210-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.334690381-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.348733925-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.372687342-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.382454490-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.405556772-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.415695699-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.427035684-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.454133926-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.464188094-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.485989350-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.505935202-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.517650429-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.537867123-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.796695814-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.806769132-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.823506092-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.829936410-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.835242560-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.841051553-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.851674630-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.857930445-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.880981234-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.951974911-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.961986865-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.981207283-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:00.991597455-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.006684939-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.018443962-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.029200834-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.053382511-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.059825111-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.065271904-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.070302697-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.076205703-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.083053254-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.100520666-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.108149620-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.113810638-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.119096911-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.124362382-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.135147846-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.141105959-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 2, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.146434043-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 3, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.155702941-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 4, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.160298345-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 5, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.166485845-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 6, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.178884817-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 7, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.184888542-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 8, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.189676193-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.194781983-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 10, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.216632558-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.226072864-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 12, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.236559427-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 12, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.256499501-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 13, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.266704747-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 14, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.548453467-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 15, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.562039416-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.577940579-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.586813853-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.620530566-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.651857325-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.685800690-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.720246058-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.731934054-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.775121957-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.783649502-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.824978261-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.865523066-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.880542951-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.917921588-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.936921027-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.950875463-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.974164999-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:01.984121613-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.006055566-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.016914295-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.033293166-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.043472978-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.068717320-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.074393080-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.080668605-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.095903598-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.113214166-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 37, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.122850957-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.132945684-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.152970334-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 40, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.162077053-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.201200243-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.428172873-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.438517431-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.464597299-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 46, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.472658302-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 49, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.479733145-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 52, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.486482678-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 55, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.493698409-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 58, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.500654355-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 61, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.512431871-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 63, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.953960653-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 63, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.964146816-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 63, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.979533835-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 63, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.985021841-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 62, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:02.991226695-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 62, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.001422017-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 61, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.027663707-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 61, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.035158400-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 60, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.048933505-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 60, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.065894254-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 60, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.072660788-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 59, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.082585362-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 59, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.107834523-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 58, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.120267366-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 58, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.133396864-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 57, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.141896273-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 56, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.165549162-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 55, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.171064469-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 54, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.176826595-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 53, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.186659553-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 52, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.201748273-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 51, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.210941971-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 50, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.224681430-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 49, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.250056093-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 48, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.255858103-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 47, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.261534384-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 46, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.266436469-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 45, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.271727630-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 44, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.279700796-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 43, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.285268461-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 42, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.290985818-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 41, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.298083067-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 39, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.314658732-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 38, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.320741077-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 36, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.326944556-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.335327171-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.351188852-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.356568627-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.361662195-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.366472964-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.371791201-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.379670027-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.394876145-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.400660164-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.405721989-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.410962085-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.417051444-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.430639075-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.436513648-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.442069095-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.451099544-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 15, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.456101988-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 14, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.466670585-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 13, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.473276045-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 12, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.480159041-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 11, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.486989430-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 10, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.509304054-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 9, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.736421946-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 8, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.750071876-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 7, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.762920784-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 5, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.769100816-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 3, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.775081382-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 1, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.780400681-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.785347710-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.798720524-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.804099449-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.809103947-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.813673544-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.820029858-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.839203191-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.849679294-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.864896656-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.890143406-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.922365281-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:03.953966441-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.269944210-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.279877545-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.299199270-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.309819200-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.347931872-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.372777023-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.391217240-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.454938160-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.491467527-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.524321255-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.561648821-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.629071188-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.673335983-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.717768866-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.777881393-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:04.874028150-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.162975056-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.199496580-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.240976838-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.273507925-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.305687168-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.338122542-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.348745435-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.370929176-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.385317360-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.409563621-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.442906318-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.471107887-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.481839581-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.498143021-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.546863688-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.552891339-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.578150874-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.608303132-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.638733622-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.674323408-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.708934272-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.747367972-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.777942824-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.812241677-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.852923-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.887403768-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.912281144-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.941938169-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:05.975708365-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.016296383-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.217379965-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.432532453-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.475813401-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.520374869-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.624937410-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.676462623-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.702539826-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.712851188-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.748739578-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.786765619-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.817053207-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.849003885-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.883933771-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.918147058-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.935722334-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:06.972984313-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.007796598-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.016704942-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.032257464-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.069460652-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.356846173-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.371522320-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.393826385-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.430157829-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 25, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.467644858-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 24, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.511154992-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.535951335-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 23, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.547802389-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 22, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.586649148-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 21, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.639170917-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 20, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.698025004-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.730595833-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 19, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.778735273-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 18, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.813424438-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.823658099-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 17, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.853212684-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.898278991-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.938361710-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.968907400-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:07.979176553-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.017814733-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.061129679-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.072929706-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.083024946-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.105647209-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.127283986-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.439553379-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.474156098-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.517878785-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.551997993-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.590367454-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.601050521-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.667962226-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 3, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.720100108-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 2, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.763816168-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 1, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.838994335-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 0, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:08.875927967-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 0, row: 0, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.174232843-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 0, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.208820831-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 0, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.237703953-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 0, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.249009109-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 1, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.262653075-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 1, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.314924520-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 1, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.336589832-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 2, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.379716097-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 2, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.433810966-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 3, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.467307384-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 3, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:10.993735711-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 3, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.020107724-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 3, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.025526356-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.031156547-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.063410749-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.097911320-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.133865214-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.164680971-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.178271044-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.198712780-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.237543225-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.275273861-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.304207797-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.320442986-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.349069283-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.356443786-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.379047751-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.400905107-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.428932719-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.455935380-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.464903042-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:11.973687885-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:12.069648789-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:12.351014984-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:12.487014345-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 21, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.175741164-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 17, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.262981428-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.275280822-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.285052917-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.297226004-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.304399786-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.311795434-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.319248723-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.329353061-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.340847580-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.348965736-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.359254478-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.386465909-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.396733854-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.408210309-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.439266528-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.453173253-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.463534102-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.467721234-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.475019167-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.482410864-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.492657312-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.497338563-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.504588358-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.514685524-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.527026337-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.537199675-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.556964961-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.566877647-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.586370104-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.596410933-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.601075691-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.608571107-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.615967701-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.626124021-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.637701357-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.648463068-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.663365986-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.712374917-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.722632709-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.727215815-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.734842467-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.745165760-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.749700776-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.757299209-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.764494677-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.772166381-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.782059005-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.792984856-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.804252146-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.824466952-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.838589242-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.846023415-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.856250613-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.868207173-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.875517934-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.886343121-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.896140342-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.908066212-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.920471339-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.930676181-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.945297330-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.957644154-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.968112035-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.979482331-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.987286341-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:13.997419308-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.002583220-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.009549275-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.017342946-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.027420564-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.032069274-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.042523845-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.055686092-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.065844319-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.079500788-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 16, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.088750364-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 17, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.111910669-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 18, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.118028790-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 19, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.123668362-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 20, row: 4, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.128226825-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.133054371-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.149454685-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 5, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.156460387-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.161532680-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.166800880-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.172884615-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.178861738-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.192460179-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.201471932-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.248104279-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.258331155-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.273692875-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.290526347-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.303685138-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.367133324-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.378120025-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.390426299-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.394743345-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.400003587-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.404895651-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.413982378-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.433471597-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.447424548-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.463206819-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 21, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.473165575-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.493927669-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.501481848-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.509708008-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.517048681-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.524944324-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.532105416-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.540056611-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.547243251-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.557287800-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.563231215-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.568265600-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.577718706-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.596863216-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 35, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.607190926-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 34, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.622978167-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 33, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.657005632-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 32, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.663376723-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.667563242-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.671826467-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 7, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.676439162-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.680748894-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 8, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.688588063-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.708818130-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 9, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.712982014-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.718308491-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.733529553-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 10, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.748004710-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.755749547-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.770850059-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.792633825-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.807841565-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.830466606-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.836842917-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.847948618-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.861006057-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.867525005-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.873884987-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 16, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.881852040-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.894745743-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.903680934-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.930826137-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.938390694-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.948781860-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.962808272-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.967626583-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:14.978664274-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.000903304-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.017240117-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.037374489-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 31, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.052338108-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 30, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.081879695-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 29, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.109882495-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 15, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.116324128-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 28, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.120943230-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 14, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.126052944-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.150713220-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.163034022-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 27, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.212656028-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 26, row: 11, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.219976895-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 25, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.230150096-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 24, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.239585063-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.244772631-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 23, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.255056780-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 13, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.283252647-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Drag(Left), column: 22, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:15.288629914-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 22, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:36:34.525099087-08:00 - INFO - Application starting...
+2025-02-20T10:39:02.410396854-08:00 - INFO - Application starting...
+2025-02-20T10:39:02.412282822-08:00 - INFO - Terminal Started
+2025-02-20T10:39:02.412546629-08:00 - INFO - App started
+2025-02-20T10:39:38.962003533-08:00 - INFO - Application starting...
+2025-02-20T10:42:00.824323836-08:00 - INFO - Application starting...
+2025-02-20T10:42:03.672499947-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 31, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:42:03.781880182-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 31, row: 6, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:42:04.635417752-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:42:05.215120499-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:42:05.683572708-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:42:05.880507299-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:42:06.074909954-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:42:06.246936261-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:42:06.433389845-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:42:06.570943951-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:09.106704083-08:00 - INFO - Application starting...
+2025-02-20T10:43:09.986009609-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Down(Left), column: 18, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:43:10.087189999-08:00 - INFO - Mouse Pressed: MouseEvent { kind: Up(Left), column: 18, row: 12, modifiers: KeyModifiers(0x0) }
+2025-02-20T10:43:10.716523667-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:10.716818733-08:00 - INFO - automaton stepped
+2025-02-20T10:43:11.549395611-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:11.549561427-08:00 - INFO - automaton stepped
+2025-02-20T10:43:11.934784111-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:11.934988878-08:00 - INFO - automaton stepped
+2025-02-20T10:43:12.199154156-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:12.199325514-08:00 - INFO - automaton stepped
+2025-02-20T10:43:12.271940550-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:12.272111187-08:00 - INFO - automaton stepped
+2025-02-20T10:43:12.430642859-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:12.430845333-08:00 - INFO - automaton stepped
+2025-02-20T10:43:12.589903743-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:12.590053573-08:00 - INFO - automaton stepped
+2025-02-20T10:43:12.746970938-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:12.747140277-08:00 - INFO - automaton stepped
+2025-02-20T10:43:12.908204777-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:12.908389510-08:00 - INFO - automaton stepped
+2025-02-20T10:43:13.070206113-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:13.070442171-08:00 - INFO - automaton stepped
+2025-02-20T10:43:13.226825695-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:13.226990218-08:00 - INFO - automaton stepped
+2025-02-20T10:43:13.392161625-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:13.392340458-08:00 - INFO - automaton stepped
+2025-02-20T10:43:13.560865297-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:13.561068506-08:00 - INFO - automaton stepped
+2025-02-20T10:43:13.720878772-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:13.721064616-08:00 - INFO - automaton stepped
+2025-02-20T10:43:13.881431431-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:13.881597243-08:00 - INFO - automaton stepped
+2025-02-20T10:43:14.041837274-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:14.041916206-08:00 - INFO - automaton stepped
+2025-02-20T10:43:14.209126938-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:14.209220361-08:00 - INFO - automaton stepped
+2025-02-20T10:43:14.383780404-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:14.383859514-08:00 - INFO - automaton stepped
+2025-02-20T10:43:14.544112047-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:14.544188144-08:00 - INFO - automaton stepped
+2025-02-20T10:43:14.699480022-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:14.699583175-08:00 - INFO - automaton stepped
+2025-02-20T10:43:14.874177723-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:14.874282303-08:00 - INFO - automaton stepped
+2025-02-20T10:43:15.100777762-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:15.100866628-08:00 - INFO - automaton stepped
+2025-02-20T10:43:15.301676448-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:15.301883359-08:00 - INFO - automaton stepped
+2025-02-20T10:43:15.522322162-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:15.522478037-08:00 - INFO - automaton stepped
+2025-02-20T10:43:15.832304372-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:15.832457030-08:00 - INFO - automaton stepped
+2025-02-20T10:43:16.107031570-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:16.107197211-08:00 - INFO - automaton stepped
+2025-02-20T10:43:16.379266753-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:16.379468421-08:00 - INFO - automaton stepped
+2025-02-20T10:43:16.589736350-08:00 - INFO - Key Pressed: KeyEvent { code: Right, modifiers: KeyModifiers(0x0), kind: Press, state: KeyEventState(0x0) }
+2025-02-20T10:43:16.589899498-08:00 - INFO - automaton stepped
+2025-02-20T10:44:24.130063651-08:00 - INFO - Application starting...
+2025-02-20T10:46:12.414981743-08:00 - INFO - Application starting...
+2025-02-20T10:46:12.416848609-08:00 - INFO - grid initialized
+size:(64, 25)
+2025-02-20T10:46:24.365232250-08:00 - INFO - Application starting...
+2025-02-20T10:46:24.367430614-08:00 - INFO - grid initialized
+size:(64, 25)
+2025-02-20T10:48:12.302842604-08:00 - INFO - Application starting...
+2025-02-20T10:48:12.305068388-08:00 - INFO - grid initialized
+size:(64, 25)
+birth: [3]
+survival: [2, 3]
+2025-02-20T10:48:32.190105486-08:00 - INFO - Application starting...
+2025-02-20T10:48:32.192264142-08:00 - INFO - grid initialized
+size:(64, 25)
+birth: [3]
+survival: [2, 3]
+2025-02-20T10:51:29.928283066-08:00 - INFO - Application starting...
+2025-02-20T10:51:29.930468563-08:00 - INFO - grid initialized
+size:(64, 25)
+birth: [3]
+survival: [2, 3]
+density: 0
+2025-02-20T10:51:51.535354830-08:00 - INFO - Application starting...
+2025-02-20T10:51:51.537435550-08:00 - INFO - grid initialized
+size:(64, 25)
+birth: [3]
+survival: [2, 3]
+density: 0
+2025-02-20T10:53:26.395057267-08:00 - INFO - Application starting...
+2025-02-20T10:53:26.397127196-08:00 - INFO - grid initialized
+size:(64, 25)
+birth: [3]
+survival: [2, 3]
+density: 0
+2025-02-20T10:58:06.479052896-08:00 - INFO - Application starting...
+2025-02-20T10:58:06.486104164-08:00 - INFO - grid initialized
+size:(64, 25)
+birth: [3]
+survival: [2, 3]
+density: 821
+2025-02-20T10:58:17.082059154-08:00 - INFO - Application starting...
+2025-02-20T10:58:17.088404254-08:00 - INFO - grid initialized
+size:(64, 25)
+birth: [3]
+survival: [2, 3]
+density: 804
+2025-02-20T10:58:34.314868390-08:00 - INFO - Application starting...
+2025-02-20T10:58:34.320779553-08:00 - INFO - grid initialized
+size:(64, 25)
+birth: [3]
+survival: [2, 3]
+density: 815
+2025-02-20T10:58:37.077997464-08:00 - INFO - automaton stepped
+2025-02-20T10:58:37.583067485-08:00 - INFO - automaton stepped
+2025-02-20T10:58:37.893594989-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.393968011-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.437151937-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.462168872-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.487915106-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.530377240-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.553462241-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.583838401-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.614161644-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.644671240-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.676106481-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.715930376-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.758335514-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.781808436-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.806521713-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.836752216-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.867088064-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.898177509-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.928249907-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.958769869-08:00 - INFO - automaton stepped
+2025-02-20T10:58:38.989911942-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.034871663-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.057304755-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.096143686-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.146413497-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.172286470-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.202045998-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.232659300-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.268944034-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.302298469-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.332741132-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.363327332-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.393721816-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.435160045-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.466022072-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.499389134-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.540725234-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.562288207-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.591730161-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.625102093-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.652921449-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.683961972-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.715437110-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.749596510-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.776959972-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.807029179-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.848368239-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.866785834-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.897523149-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.927643563-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.958782917-08:00 - INFO - automaton stepped
+2025-02-20T10:58:39.990382203-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.036026156-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.060701057-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.085032475-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.115389868-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.158927745-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.195450843-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.237314552-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.273567508-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.306452362-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.346479193-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.371188882-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.396669165-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.427392475-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.456938629-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.487123782-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.518388960-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.557569955-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.588124957-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.638559994-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.664732365-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.681661599-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.735297228-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.758346988-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.782311081-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.812238083-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.842776116-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.873365363-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.903896152-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.939098590-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.969145026-08:00 - INFO - automaton stepped
+2025-02-20T10:58:40.998476296-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.041754618-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.064799054-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.107413513-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.148724102-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.172543561-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.197540195-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.227433701-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.257809779-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.289070091-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.336225081-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.359699947-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.385351380-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.412843010-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.452985092-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.476713721-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.511256062-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.555965238-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.585940559-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.616160280-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.654534917-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.685190305-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.715929343-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.756693493-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.783006423-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.813845103-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.851008018-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.880356702-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.914671775-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.953694097-08:00 - INFO - automaton stepped
+2025-02-20T10:58:41.983299591-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.014081943-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.045056580-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.075541624-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.113593447-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.151508759-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.182366951-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.233701167-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.254622315-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.284181936-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.334766097-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.357310691-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.388222457-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.434581361-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.459911896-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.489494310-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.528065006-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.553658517-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.583910430-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.614780289-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.645266117-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.675653342-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.706355469-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.736842125-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.767413061-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.797637894-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.828090849-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.859676425-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.891352689-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.936142495-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.964790841-08:00 - INFO - automaton stepped
+2025-02-20T10:58:42.994179681-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.025412923-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.054859746-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.085593167-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.116077239-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.147050041-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.178460713-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.211797427-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.252365186-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.278460456-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.317206208-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.364950918-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.387187266-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.418439481-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.448653218-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.479321337-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.511114861-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.552652150-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.580658118-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.611184105-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.646659991-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.670723373-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.700857950-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.731243190-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.761916539-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.792683196-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.832026680-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.854917794-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.885629884-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.915992351-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.948506776-08:00 - INFO - automaton stepped
+2025-02-20T10:58:43.977041021-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.010826065-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.051517821-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.072580792-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.102783701-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.133960728-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.164642331-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.195524709-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.228475004-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.265051943-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.309511118-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.347559802-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.374108221-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.407756009-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.447008701-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.468080090-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.496122953-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.526439859-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.558029439-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.596979662-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.641352753-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.678909099-08:00 - INFO - automaton stepped
+2025-02-20T10:58:44.713101122-08:00 - INFO - automaton stepped
+2025-02-20T10:58:48.595282429-08:00 - INFO - Application starting...
+2025-02-20T10:58:48.598740496-08:00 - INFO - grid initialized
+size:(64, 25)
+birth: [3]
+survival: [2, 3]
+density: 815

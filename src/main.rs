@@ -8,7 +8,7 @@ use crate::{
     handler::handle_key_events,
     tui::Tui,
 };
-
+use log::info;
 pub mod app;
 pub mod event;
 pub mod handler;
@@ -17,6 +17,9 @@ pub mod ui;
 
 #[tokio::main]
 async fn main() -> AppResult<()> {
+    log4rs::init_file("log4rs.yaml", Default::default()).unwrap();
+
+    info!("Application starting...");
     // Initialize the terminal user interface.
     let backend = CrosstermBackend::new(io::stdout());
     let terminal = Terminal::new(backend)?;
@@ -34,10 +37,17 @@ async fn main() -> AppResult<()> {
         tui.draw(&mut app)?;
         // Handle events.
         match tui.events.next().await? {
-            Event::Tick => app.tick(),
-            Event::Key(key_event) => handle_key_events(key_event, &mut app)?,
-            Event::Mouse(_) => {}
-            Event::Resize(_, _) => {}
+            Event::Tick => (),
+            Event::Key(key_event) => {
+                // info!("Key Pressed: {:?}", key_event);
+                handle_key_events(key_event, &mut app)?
+            }
+            Event::Mouse(mouse_event) => {
+                // info!("Mouse Pressed: {:?}", mouse_event)
+            }
+            Event::Resize(resize_x, resize_y) => {
+                // info!("Terimnal Resized to: ({}, {})", resize_x, resize_y)
+            }
         }
     }
 

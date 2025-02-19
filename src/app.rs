@@ -1,5 +1,10 @@
 mod automata;
+mod lifelike;
+use std::error;
+
 use automata::*;
+use lifelike::LifeLikeAutomaton;
+use log::info;
 use ratatui::{
     layout::Rect,
     symbols::Marker,
@@ -8,33 +13,36 @@ use ratatui::{
         Widget,
     },
 };
-use std::error;
 /// Application result type.
 pub type AppResult<T> = std::result::Result<T, Box<dyn error::Error>>;
 
 /// Application.
-#[derive(Debug)]
 pub struct App {
     /// Is the application running?
     pub running: bool,
     /// life grid
-    pub automata: Box<dyn AutomataInterface>,
+    pub automaton: Box<dyn Automaton>,
     pub marker: Marker,
 }
 
 impl App {
-    /// Constructs a new instance of [`App`].
     pub fn new(width: u16, height: u16) -> Self {
         Self {
             running: true,
-            automata: todo!(),
+            automaton: Box::new(LifeLikeAutomaton::new(
+                width.into(),
+                height.into(),
+                vec![3],
+                vec![2, 3],
+            )),
             marker: Marker::Block,
         }
     }
 
     /// Handles the tick event of the terminal.
     pub fn tick(&mut self) {
-        self.automata.step()
+        info!("automaton stepped");
+        self.automaton.step()
     }
 
     /// Set running to false to quit the application.
@@ -52,20 +60,12 @@ impl App {
             .x_bounds([left, right])
             .y_bounds([bottom, top])
             .paint(|ctx| {
-                let width = self.automata.width();
-                let height = self.automata.height();
-
-                for row in 0..height {
-                    for col in 0..width {
-                        if let Some(color) = self.automata.get_cell_color(col, row) {
-                            // Assuming default color means no cell or empty
-                            ctx.draw(&Points {
-                                coords: &[(col as f64, row as f64)],
-                                color: rat_color(color),
-                            });
-                        }
-                    }
-                }
+                self.automaton.colors().for_each(|((row, col), color)| {
+                    ctx.draw(&Points {
+                        coords: &[(col as f64, row as f64)],
+                        color: rat_color(color),
+                    });
+                });
             })
     }
 }
