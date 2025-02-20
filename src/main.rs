@@ -1,5 +1,6 @@
 use std::io;
 
+use crossterm::event::MouseEventKind;
 use ratatui::{backend::CrosstermBackend, Terminal};
 
 use crate::{
@@ -43,7 +44,15 @@ async fn main() -> AppResult<()> {
                 handle_key_events(key_event, &mut app)?
             }
             Event::Mouse(mouse_event) => {
-                // info!("Mouse Pressed: {:?}", mouse_event)
+                info!("Mouse Pressed: {:?}", mouse_event);
+                if mouse_event.kind != MouseEventKind::Up(crossterm::event::MouseButton::Left) {
+                    app.draw(
+                        app.automaton.size().0
+                            - 1
+                            - std::convert::Into::<usize>::into(mouse_event.row),
+                        (mouse_event.column + 1).into(),
+                    );
+                }
             }
             Event::Resize(resize_x, resize_y) => {
                 // info!("Terimnal Resized to: ({}, {})", resize_x, resize_y)

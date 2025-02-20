@@ -32,8 +32,8 @@ impl App {
             automaton: Box::new(LifeLikeAutomaton::new(
                 width.into(),
                 height.into(),
-                vec![3],
-                vec![2, 3],
+                vec![0, 1, 2, 3, 4, 7, 8],
+                vec![3, 4, 6, 7, 8],
             )),
             marker: Marker::Block,
         }
@@ -67,6 +67,10 @@ impl App {
                     });
                 });
             })
+    }
+
+    pub fn draw(&mut self, draw_row: usize, draw_col: usize) {
+        self.automaton.draw(draw_row, draw_col);
     }
 }
 
