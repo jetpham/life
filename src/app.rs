@@ -1,8 +1,10 @@
 mod automata;
+mod lifelifecolor;
 mod lifelike;
 use std::error;
 
 use automata::*;
+use lifelifecolor::LifeLikeColorAutomaton;
 use lifelike::LifeLikeAutomaton;
 use log::info;
 use ratatui::{
@@ -29,11 +31,11 @@ impl App {
     pub fn new(width: u16, height: u16) -> Self {
         Self {
             running: true,
-            automaton: Box::new(LifeLikeAutomaton::new(
+            automaton: Box::new(LifeLikeColorAutomaton::new(
                 width.into(),
                 height.into(),
-                vec![0, 1, 2, 3, 4, 7, 8],
-                vec![3, 4, 6, 7, 8],
+                vec![3],
+                vec![2, 3],
             )),
             marker: Marker::Block,
         }

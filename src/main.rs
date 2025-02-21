@@ -54,7 +54,7 @@ async fn main() -> AppResult<()> {
                     );
                 }
             }
-            Event::Resize(resize_x, resize_y) => {
+            Event::Resize(_resize_x, _resize_yy) => {
                 // info!("Terimnal Resized to: ({}, {})", resize_x, resize_y)
             }
         }
