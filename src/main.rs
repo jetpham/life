@@ -46,12 +46,14 @@ async fn main() -> AppResult<()> {
             Event::Mouse(mouse_event) => {
                 info!("Mouse Pressed: {:?}", mouse_event);
                 if mouse_event.kind != MouseEventKind::Up(crossterm::event::MouseButton::Left) {
-                    app.draw(
-                        app.automaton.size().0
-                            - 1
-                            - std::convert::Into::<usize>::into(mouse_event.row),
-                        (mouse_event.column + 1).into(),
-                    );
+                    let max_row = app.automaton.size().0.saturating_sub(1);
+                    let row = max_row.saturating_sub(mouse_event.row.into());
+                    let column = mouse_event.column.saturating_add(1);
+
+                    if row < app.automaton.size().0 && usize::from(column) < app.automaton.size().1
+                    {
+                        app.draw(row, column.into());
+                    }
                 }
             }
             Event::Resize(_resize_x, _resize_yy) => {

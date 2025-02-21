@@ -3,7 +3,7 @@ appenders:
     kind: file
     path: "application.log"
     encoder:
-      pattern: "{d} - {l} - {m}{n}"
+      pattern: "{l} - {m}{n}"
 
 root:
   level: debug

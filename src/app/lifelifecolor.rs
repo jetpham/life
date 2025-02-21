@@ -60,6 +60,10 @@ pub struct LifeLikeColorAutomaton {
     survival: Vec<usize>,
 }
 
+fn random_color() -> Color {
+    let mut rng = rng();
+    Color::from_hsv(rng.random_range(0.0..=360.0), 1.0, 1.0).unwrap()
+}
 impl LifeLikeColorAutomaton {
     pub fn new(width: usize, height: usize, birth: Vec<usize>, survival: Vec<usize>) -> Self {
         let mut rng = rng();
@@ -67,9 +71,7 @@ impl LifeLikeColorAutomaton {
             (0..width * height)
                 .map(|_| -> Cell {
                     match rng.random_bool(0.5) {
-                        true => Cell::Alive(
-                            Color::from_hsv(rng.random_range(0.0..=360.0), 1.0, 1.0).unwrap(),
-                        ),
+                        true => Cell::Alive(random_color()),
                         false => Cell::Dead,
                     }
                 })
@@ -172,7 +174,7 @@ impl Automaton for LifeLikeColorAutomaton {
 
     fn draw(&mut self, draw_row: usize, draw_col: usize) {
         if let Some(state) = self.grid.get_mut(draw_row, draw_col) {
-            *state = Cell::Alive(Color::from_name("white").unwrap());
+            *state = Cell::Alive(random_color());
             info!("Cell at ({}, {}) toggled", draw_row, draw_col);
         } else {
             info!(
